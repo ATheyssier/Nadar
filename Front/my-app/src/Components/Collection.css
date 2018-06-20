@@ -1,0 +1,51 @@
+table {
+  margin: auto;
+  padding: 1em;
+}
+img {
+  width: 5.3em;
+  margin: 0.2em;
+  box-shadow:1px 5px #F4F4F4;
+}
+
+.img2{
+  padding-top: 19.765%;
+  padding-bottom: 19.765%;
+}
+
+h3{
+  color: #8E7052;
+  font-family:
+}
+
+.button{
+  background-color: #FF512E;
+  color: white;
+  padding: 12px 40px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 1.3em;
+  border: none;
+  box-shadow: none;
+  font-family: 'FONTSPRING DEMO - Rift Demi';
+  font-style: italic;
+  font-weight: 600;
+}
+
+value{
+  padding: 1em;
+}
+
+hr{
+  display: block;
+height: 0.01em;
+padding: 0;
+border: 0;
+font-family: arial;
+text-align: center;
+font-size: 60px;
+line-height: 1;
+background-color: #8E7052;
+width: 40%;
+}
